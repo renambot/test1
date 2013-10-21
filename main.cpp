@@ -5,7 +5,7 @@ main(int argc, char**argv)
 {
 	std::cout << "Hello" << std::endl;
 
-	return 2;
+	return 4;
 }
 
 
